@@ -22,6 +22,6 @@ palindrome.cpp
 
 simple interest.cpp
 
-sort.cpp
+Min and Max.cpp
 
 student details using class.cpp
