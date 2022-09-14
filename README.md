@@ -31,3 +31,5 @@ print the name of student using student class
 Student grade using class
 
 Employee salary
+
+Employee Income Tax
