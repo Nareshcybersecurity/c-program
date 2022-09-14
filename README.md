@@ -25,3 +25,5 @@ simple interest.cpp
 Min and Max.cpp
 
 student details using class.cpp
+
+print the name of student using student class
