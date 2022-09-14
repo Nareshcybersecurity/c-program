@@ -33,3 +33,7 @@ Student grade using class
 Employee salary
 
 Employee Income Tax
+
+I love CPP
+
+Data types using constructor.cpp
