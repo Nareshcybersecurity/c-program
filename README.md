@@ -39,3 +39,5 @@ I love CPP
 Data types using constructor.cpp
 
 Add sub using switch case
+
+single inheritance
