@@ -41,3 +41,5 @@ Data types using constructor.cpp
 Add sub using switch case
 
 single inheritance
+
+Add and product of two numbers using single inheritance
