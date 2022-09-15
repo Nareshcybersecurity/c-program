@@ -2,9 +2,8 @@
 using namespace std;
 class sum
 {
-    int x=7,y=9;
-    
     public:
+    int x=77,y=99;
     void getdata()
     {
         cout<<"Sum of the two numbers: "<<x+y<<endl;
@@ -12,7 +11,7 @@ class sum
 };
 class product:public sum
 {
-    int x=7,y=9;
+    
     public:
     void getdata1()
     {
